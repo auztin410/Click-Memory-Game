@@ -13,31 +13,26 @@ class Counter extends React.Component {
         this.setState({ count: this.state.count + 1 });
     }
 
-
+    
 
     render() {
-        return (
-            <div className="card">
+        return (            
                 <div className="img-container">
-                    <img
-                        alt={Characters[0].name}
-                        src={Characters[0].image}
+                {Characters.map((character) => {
+                    return(
+                        <img
+                        alt={character.name}
+                        src={character.image}
+                        key={character.name}
+                        height="200px"
+                        width="200px"
                     />
-                </div>
-                <div className="content">
-                    <ul>
-                        <li>
-                            <strong>Name:</strong> {Characters[0].name}
-                        </li>
-                        <li>
-                            <strong>Occupation:</strong> {Characters[0].occupation}
-                        </li>
-                        <li>
-                            <strong>Quote:</strong> {Characters[0].quote}
-                        </li>
-                    </ul>
-                </div>
-            </div>
+                    )
+                    
+                    // {console.log(character.image)}
+                })}
+                </div>              
+            
         );
     }
 }

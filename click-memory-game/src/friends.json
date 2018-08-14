@@ -4,56 +4,64 @@
     "name": "Malcom Reynolds",
     "image": "https://vignette.wikia.nocookie.net/firefly/images/3/39/Mal.jpg/revision/latest?cb=20080301061839",
     "occupation": "Captain",
-    "quote": "I am to misbehave."
+    "quote": "I am to misbehave.",
+    "clicked": "0"
   },
   {
     "id": 2,
     "name": "Zoe Washburne",
     "image": "https://vignette.wikia.nocookie.net/firefly/images/1/10/Zoe.jpg/revision/latest?cb=20080301064448",
     "occupation": "Badass",
-    "quote": "Big damn heroes, sir."
+    "quote": "Big damn heroes, sir.",
+    "clicked": "0"
   },
   {
     "id": 3,
     "name": "Hoban Washburne",
     "image": "https://vignette.wikia.nocookie.net/firefly/images/f/fa/Wash.jpg/revision/latest?cb=20080301062346",
     "occupation": "Pilot",
-    "quote": "I am a leaf on the wind.."
+    "quote": "I am a leaf on the wind..",
+    "clicked": "0"
   },
   {
     "id": 4,
     "name": "Shepard Book",
     "image": "https://vignette.wikia.nocookie.net/firefly/images/e/e2/Book.jpg/revision/latest?cb=20080301063245",
     "occupation": "Shepard",
-    "quote": "The special hell..."
+    "quote": "The special hell...",
+    "clicked": "0"
   },
   {
     "id": 5,
     "name": "Inara Serra",
     "image": "https://vignette.wikia.nocookie.net/firefly/images/c/c3/Inara02.jpg/revision/latest?cb=20080301063009",
     "occupation": "Companion",
-    "quote": "Would you like to lecture me on the wickedness of my ways?"
+    "quote": "Would you like to lecture me on the wickedness of my ways?",
+    "clicked": "0"
   },
   {
     "id": 6,
     "name": "River Tam",
     "image": "https://vignette.wikia.nocookie.net/firefly/images/2/2c/River.jpg/revision/latest?cb=20080301023737",
     "occupation": "Super Assassin",
-    "quote": "I swallowed a bug."
+    "quote": "I swallowed a bug.",
+    "clicked": "0"
   },
   {
     "id": 7,
     "name": "Kaywinnet Lee Frye",
     "image": "https://vignette.wikia.nocookie.net/firefly/images/5/55/Kaylee.jpg/revision/latest?cb=20100426173058",
     "occupation": "Mechanic",
-    "quote": "Shiney Captain!"
+    "quote": "Shiney Captain!",
+    "clicked": "0"
   },
   {
     "id": 8,
     "name": "Jayne Cobb",
     "image": "https://vignette.wikia.nocookie.net/firefly/images/d/d0/Jayne.jpg/revision/latest?cb=20080301065044",
     "occupation": "Gun for hire",
-    "quote": "Not as deceiving as a low down dirty... deceiver."
+    "quote": "Not as deceiving as a low down dirty... deceiver.",
+    "clicked": "0"
   }
   
 ]
