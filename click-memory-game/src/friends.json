@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "name": "Malcom Reynolds",
+    "image": "https://vignette.wikia.nocookie.net/firefly/images/3/39/Mal.jpg/revision/latest?cb=20080301061839",
+    "occupation": "Captain",
+    "quote": "I am to misbehave."
+  },
+  {
+    "id": 2,
+    "name": "Zoe Washburne",
+    "image": "https://vignette.wikia.nocookie.net/firefly/images/1/10/Zoe.jpg/revision/latest?cb=20080301064448",
+    "occupation": "Badass",
+    "quote": "Big damn heroes, sir."
+  },
+  {
+    "id": 3,
+    "name": "Hoban Washburne",
+    "image": "https://vignette.wikia.nocookie.net/firefly/images/f/fa/Wash.jpg/revision/latest?cb=20080301062346",
+    "occupation": "Pilot",
+    "quote": "I am a leaf on the wind.."
+  },
+  {
+    "id": 4,
+    "name": "Shepard Book",
+    "image": "https://vignette.wikia.nocookie.net/firefly/images/e/e2/Book.jpg/revision/latest?cb=20080301063245",
+    "occupation": "Shepard",
+    "quote": "The special hell..."
+  },
+  {
+    "id": 5,
+    "name": "Inara Serra",
+    "image": "https://vignette.wikia.nocookie.net/firefly/images/c/c3/Inara02.jpg/revision/latest?cb=20080301063009",
+    "occupation": "Companion",
+    "quote": "Would you like to lecture me on the wickedness of my ways?"
+  },
+  {
+    "id": 6,
+    "name": "River Tam",
+    "image": "https://vignette.wikia.nocookie.net/firefly/images/2/2c/River.jpg/revision/latest?cb=20080301023737",
+    "occupation": "Super Assassin",
+    "quote": "I swallowed a bug."
+  },
+  {
+    "id": 7,
+    "name": "Kaywinnet Lee Frye",
+    "image": "https://vignette.wikia.nocookie.net/firefly/images/5/55/Kaylee.jpg/revision/latest?cb=20100426173058",
+    "occupation": "Mechanic",
+    "quote": "Shiney Captain!"
+  },
+  {
+    "id": 8,
+    "name": "Jayne Cobb",
+    "image": "https://vignette.wikia.nocookie.net/firefly/images/d/d0/Jayne.jpg/revision/latest?cb=20080301065044",
+    "occupation": "Gun for hire",
+    "quote": "Not as deceiving as a low down dirty... deceiver."
+  }
+  
+]
