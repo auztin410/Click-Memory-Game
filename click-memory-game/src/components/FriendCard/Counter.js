@@ -1,6 +1,9 @@
 import React from "react";
 import Characters from "../../friends.json";
 
+
+console.log(Characters);
+
 class Counter extends React.Component {
     state = {
         count: 0
@@ -11,25 +14,26 @@ class Counter extends React.Component {
     }
 
 
+
     render() {
         return (
             <div className="card">
                 <div className="img-container">
                     <img
-                        alt={Characters.name}
-                        src={Characters.image}
+                        alt={Characters[0].name}
+                        src={Characters[0].image}
                     />
                 </div>
                 <div className="content">
                     <ul>
                         <li>
-                            <strong>Name:</strong> {Characters.name}
+                            <strong>Name:</strong> {Characters[0].name}
                         </li>
                         <li>
-                            <strong>Occupation:</strong> {Characters.occupation}
+                            <strong>Occupation:</strong> {Characters[0].occupation}
                         </li>
                         <li>
-                            <strong>Quote:</strong> {Characters.quote}
+                            <strong>Quote:</strong> {Characters[0].quote}
                         </li>
                     </ul>
                 </div>
