@@ -21,6 +21,7 @@ class Counter extends React.Component {
         this.setState({count: this.state.count + 1})
         console.log(this.state.count);
         console.log(this);
+        
         // if(this.character.clicked === 1){
         //     alert("You clicked the same one twice. Try again!");
         // }
@@ -53,7 +54,7 @@ class Counter extends React.Component {
                         height="200px"
                         width="200px"
                         onClick = {this.handleClick}
-                        clicked = "0"
+                        clicked = {character.clicked}
                     />
                     )
                     
