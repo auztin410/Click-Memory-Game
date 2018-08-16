@@ -1,8 +1,9 @@
 import React from "react";
 import Counter from "./Counter";
+import "./Style.css";
 
 const View = () => (
-    <div>
+    <div className="img-container">
         <Counter />
     </div>
 );
