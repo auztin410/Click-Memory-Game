@@ -157,7 +157,6 @@ class Counter extends React.Component {
                             onClick={this.handleClick}
                         />
                     )
-                    {" "}
 
 
                 })}
