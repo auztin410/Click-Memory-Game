@@ -132,7 +132,6 @@ class Counter extends React.Component {
         this.handleScore();
 
 
-
     }
 
 
@@ -141,7 +140,7 @@ class Counter extends React.Component {
         return (
             <div className="img-container">
                 <h1>
-                    High Score: {this.state.highScore}
+                    High Score: {this.state.highScore} 
                     <br />
                     Score: {this.state.count}
                 </h1>
